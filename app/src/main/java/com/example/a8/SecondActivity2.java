@@ -4,9 +4,9 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.view.View;
+import android.view.View; //
 
-public class SecondActivity2 extends AppCompatActivity {
+public class SecondActivity2 extends AppCompatActivity { //Second Activity Button
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
